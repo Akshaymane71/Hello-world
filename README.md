@@ -1,4 +1,4 @@
 # Hello-world
-Welcome to Earth 
+Welcome to Mars
 
-I am from planet Earth, you will not find similar planet in entire universe
+I am from planet Mars, you will not find similar planet in entire universe
